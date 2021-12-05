@@ -1,2 +1,2 @@
 # Console-Applications
-This Application is a web Form Application, strictly uses C# as a programming language
+This Application is a Console Application, strictly uses C# as a programming language under .NET Framework
